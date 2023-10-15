@@ -1,0 +1,1 @@
+# Image white background adder
